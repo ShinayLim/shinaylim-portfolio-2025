@@ -1,0 +1,9 @@
+:root {
+  --color-text: #ffffff; /* Crisp white for readability */
+  --color-primary: #8e7cf0; /* A refined muted purple for accents */
+  --color-secondary: #ff7b72; /* A sophisticated soft red for contrast */
+  --color-dark: #1b1b1f; /* Deep charcoal for depth */
+  --color-bg: #121216; /* True black with a hint of blue for modern aesthetics */
+
+  --font-poppins: 'Poppins';
+}
